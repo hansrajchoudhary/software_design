@@ -3,4 +3,4 @@ Software design is the process of implementing software solutions to one or more
 
 I'll be adding implimentations of various simple/hard design. Please feel free to try them out and improve.
 
-Mail me at hansrajchoudhary<at>gmail
+Mail me at hansrajchoudhary@gmail
